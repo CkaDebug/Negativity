@@ -5,7 +5,7 @@ It's a Minecraft AntiCheat for multiples platforms :
 - **Sponge** API 7, 8, 9 & 10
 - **Fabric** MC 1.18.2, 1.19 to 1.19.4 (Download [here](https://github.com/Elikill58/NegativityFabric#negativityfabric))
 - **Minestom** 1.19.3
-
+ 
 Proxies:
 - **BungeeCord**
 - **Velocity**
